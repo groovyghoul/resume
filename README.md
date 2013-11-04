@@ -1,5 +1,5 @@
-### Requirements ###
-#### OS X ####
+###Requirements###
+####OS X####
 
 * Download pandoc (https://code.google.com/p/pandoc/downloads/list)
 
